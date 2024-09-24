@@ -1,5 +1,4 @@
 # CloneThisRepository
 The Complete and Unabridged Works of Abbie Hoffman
 
-![image](https://github.com/user-attachments/assets/704c484b-3592-4d6e-8db9-78f64366164d)
-
+![image](https://github.com/user-attachments/assets/40992832-ade4-49ba-bd0c-f0d894b5b1a6)
